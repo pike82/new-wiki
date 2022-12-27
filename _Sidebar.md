@@ -15,9 +15,9 @@
 ### *[Hawk Class](https://github.com/pike82/KSP-V1.12.3-RP-1/wiki/Hawk-Class)
 
 ## Missions
-### [Zeus Class](https://github.com/pike82/KSP-V1.10.1-RP-1/wiki/Zeus-Class)
-### [Explorer Class](https://github.com/pike82/KSP-V1.10.1-RP-1/wiki/Explorer-Class)
-### [Luna Class](https://github.com/pike82/KSP-V1.10.1-RP-1/wiki/Luna-Class)
-### [Atlas Class](https://github.com/pike82/KSP-V1.10.1-RP-1/wiki/Atlas-Class)
-### [Outreach Class TBC](https://github.com/pike82/KSP-V1.3.1-RP-1/wiki/Outreach-Class)
-### [Cygnus Class TBC](https://github.com/pike82/KSP-V1.3.1-RP-1/wiki/Cygnus-Class)
+### *[Zeus Class](https://github.com/pike82/KSP-V1.12.3-RP-1/wiki/Zeus-Class)
+### *[Explorer Class](https://github.com/pike82/KSP-V1.12.3-RP-1/wiki/Explorer-Class)
+### *[Luna Class](https://github.com/pike82/KSP-V1.12.3-RP-1/wiki/Luna-Class)
+### *[Atlas Class](https://github.com/pike82/KSP-V1.12.3-RP-1/wiki/Atlas-Class)
+### *[Outreach Class TBC](https://github.com/pike82/KSP-V12.3.1-RP-1/wiki/Outreach-Class)
+### *[Cygnus Class TBC](https://github.com/pike82/KSP-V12.3.1-RP-1/wiki/Cygnus-Class)
