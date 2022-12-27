@@ -4,8 +4,8 @@
 ### [X-15 Class](https://github.com/pike82/KSP-V1.12.3-RP-1/wiki/X-15)
 
 ## Sounding Rockets
-### *[Sprint Class](https://github.com/pike82/KSP-V1.12.3-RP-1/wiki/Sprint-Class)
-### *[Archer Class](https://github.com/pike82/KSP-V1.12.3-RP-1/wiki/Archer-Class)
+### [Sprint Class](https://github.com/pike82/KSP-V1.12.3-RP-1/wiki/Sprint-Class)
+### [Archer Class](https://github.com/pike82/KSP-V1.12.3-RP-1/wiki/Archer-Class)
 ### *[Javelin Class](https://github.com/pike82/KSP-V1.12.3-RP-1/wiki/Javelin-Class)
 ### *[Hammer Class](https://github.com/pike82/KSP-V1.12.3-RP-1/wiki/Hammer-Class)
 
