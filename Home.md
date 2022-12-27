@@ -7,7 +7,7 @@ Don't forget to unpack the spare chutes to save on mass and cost (default is 5)
 
 Reduce the fairing density to min to save mass unless it is needed for heat protection.
 
-1.5:1 VAB and R&D points until about 20 points in total then try to maintain about 1:1.25 ratio favouring faster R&D as it will be more of a limiter for contracts.
+1.5:1 VAB and R&D points until about 20 points in total then try to maintain about 1:1.5 (opposite direction) ratio until first orbit then 1:1.25 favouring faster R&D as it will be more of a limiter for contracts than build rate.
 
 Take path to inter planetary comms and 1962 engines as most direct path after getting first rocket planes. Orbital Manned space flight can come latter but these will give you good science from the interplanetary missions.
 
