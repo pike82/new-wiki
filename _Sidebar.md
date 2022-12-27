@@ -1,5 +1,5 @@
 ## Aircraft
-### [W-3D](https://github.com/pike82/KSP-V1.10.1-RP-1/wiki/W-3D)
+### [W-3D](https://github.com/pike82/KSP-V1.12.3-RP-1/wiki/W-3D)
 ### [X-1 Class](https://github.com/pike82/KSP-V1.10.1-RP-1/wiki/X-1)
 ### [X-15 Class](https://github.com/pike82/KSP-V1.10.1-RP-1/wiki/X-15)
 
