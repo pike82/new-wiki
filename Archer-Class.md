@@ -77,5 +77,5 @@ Set pitch to 85.
 ## Misc
 **Comments:** 
 
-Set pitch to 85. (Film 150 km alt and about 200km range)
+Set pitch to 85. (80 for Film 150 km alt and about 200km range)
 ***
