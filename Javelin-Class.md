@@ -22,15 +22,17 @@ This Class consists of:\
 
 **Build Costs:** 1692
 ## Files
-**Craft file:** [Javelin Mk1](https://github.com/pike82/KSP-V1.10.1-RP-1/blob/master/Craft/Javelin%20Mk1.craft)
+**Craft file:** [Javelin Mk1](https://github.com/pike82/KSP-V1.12.3-RP-1/blob/master/Craft/Javelin%20Mk1.craft)
 
-**KOS Code:** [KOS Javelin](https://github.com/pike82/KSP-V1.10.1-RP-1/blob/master/Sounding_Rockets/Javelin.ks)
+**KOS Code:** [KOS Javelin](https://github.com/pike82/KSP-V1.12.3-RP-1/blob/master/Sounding_Rockets/Javelin.ks)
 ## Misc
 **Comments:** 
  
 **Orbit:** 87, 90
 
 **Polar:** 87.5, 180
+
+Note: the first engine overburns to this stage is unreliable.
 
 ***
 
@@ -48,9 +50,9 @@ This Class consists of:\
 
 **Build Costs:** 2,577
 ## Files
-**Craft file:** [Javelin Mk2](https://github.com/pike82/KSP-V1.10.1-RP-1/blob/master/Craft/Javelin%20Mk2.craft)
+**Craft file:** [Javelin Mk2](https://github.com/pike82/KSP-V1.12.3-RP-1/blob/master/Craft/Javelin%20Mk2.craft)
 
-**KOS Code:** [KOS Javelin](https://github.com/pike82/KSP-V1.10.1-RP-1/blob/master/Sounding_Rockets/Javelin.ks)
+**KOS Code:** [KOS Javelin](https://github.com/pike82/KSP-V1.12.3-RP-1/blob/master/Sounding_Rockets/Javelin.ks)
 ## Misc
 **Comments:** 
  
