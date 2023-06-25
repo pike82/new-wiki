@@ -26,7 +26,7 @@ This Class consists of:\
 ## Misc
 **Comments:** 
 
-Can put roughly 300kg into LEO. use 90,88.25 to get 850 km Pe with 100 comsat
+Can put roughly 300kg into LEO. use 90, 88.5 to get 850 km Pe with 100 comsat
 
 ***
 
