@@ -1,6 +1,6 @@
 # Hammer Class
 
-First Class capable of orbital insertion with significant margin for LEO experiments. This is really used for low cost re-entry testing and engine R&D, with the bluebird used for orbital insertion since it include and improved upper stage. 
+First Class capable of orbital insertion with more margin for LEO experiments compared to Javelin. This is really used for low cost re-entry testing and engine R&D, with the bluebird used for orbital insertion since it include and improved upper stage. 
 
 This Class consists of:\
 [Hammer Mk1](#Hammer-Mk1)
