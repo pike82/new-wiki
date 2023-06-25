@@ -7,7 +7,7 @@
 ### [Sprint Class](https://github.com/pike82/KSP-V1.12.3-RP-1/wiki/Sprint-Class)
 ### [Archer Class](https://github.com/pike82/KSP-V1.12.3-RP-1/wiki/Archer-Class)
 ### [Javelin Class](https://github.com/pike82/KSP-V1.12.3-RP-1/wiki/Javelin-Class)
-### *[Hammer Class](https://github.com/pike82/KSP-V1.12.3-RP-1/wiki/Hammer-Class)
+### [Hammer Class](https://github.com/pike82/KSP-V1.12.3-RP-1/wiki/Hammer-Class)
 
 ## Boosters
 
