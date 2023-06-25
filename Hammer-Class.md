@@ -1,6 +1,6 @@
 # Hammer Class
 
-First Class capable of orbital insertion with significant margin for LEO experiments.
+First Class capable of orbital insertion with significant margin for LEO experiments. This is really used for low cost re-entry testing with, with the bluebird used for orbital insertion since it include and improved upper stage. 
 
 This Class consists of:\
 [Hammer Mk1](#Hammer-Mk1)
