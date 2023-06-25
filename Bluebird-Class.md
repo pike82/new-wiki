@@ -20,13 +20,13 @@ This Class consists of:\
 
 **Build Costs:** 2,577
 ## Files
-**Craft file:** [Bluebird Mk1](https://github.com/pike82/KSP-V1.10.1-RP-1/blob/master/Craft/Bluebird%20Mk1.craft)
+**Craft file:** [Bluebird Mk1](https://github.com/pike82/KSP-V1.12.3-RP-1/blob/master/Craft/Bluebird%20Mk1.craft)
 
-**KOS Code:** [KOS Bluebird](https://github.com/pike82/KSP-V1.10.1-RP-1/blob/master/Booster/Bluebird.ks)
+**KOS Code:** [KOS Bluebird](https://github.com/pike82/KSP-V1.12.3-RP-1/blob/master/Booster/Bluebird.ks)
 ## Misc
 **Comments:** 
 
-Can put roughly 300kg into LEO.
+Can put roughly 300kg into LEO. use 90,88.25 to get 850 km Pe with 100 comsat
 
 ***
 
@@ -44,9 +44,9 @@ Can put roughly 300kg into LEO.
 
 **Build Costs:** 2,995
 ## Files
-**Craft file:** [Bluebird Mk2](https://github.com/pike82/KSP-V1.10.1-RP-1/blob/master/Craft/Bluebird%20Mk2.craft)
+**Craft file:** [Bluebird Mk2](https://github.com/pike82/KSP-V1.12.3-RP-1/blob/master/Craft/Bluebird%20Mk2.craft)
 
-**KOS Code:** [KOS Bluebird](https://github.com/pike82/KSP-V1.10.1-RP-1/blob/master/Booster/Bluebird.ks)
+**KOS Code:** [KOS Bluebird](https://github.com/pike82/KSP-V1.12.3-RP-1/blob/master/Booster/Bluebird.ks)
 ## Misc
 **Comments:** 
 
